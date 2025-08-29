@@ -121,7 +121,7 @@ under the License.
     <javaVersion>8</javaVersion>
     <doxiaVersion>1.11.1</doxiaVersion>
     <doxia-sitetoolsVersion>1.11.1</doxia-sitetoolsVersion>
-    <mavenVersion>3.2.5</mavenVersion>
+    <mavenVersion>3.9.10</mavenVersion>
     <scmVersion>1.13.0</scmVersion>
     <aetherVersion>1.0.0.v20140518</aetherVersion>
     <sitePluginVersion>3.12.1</sitePluginVersion>
@@ -218,7 +218,7 @@ under the License.
     <dependency>
       <groupId>org.apache.bcel</groupId>
       <artifactId>bcel</artifactId>
-      <version>6.5.0</version>
+      <version>6.6.0</version>
     </dependency>
     <dependency>
       <groupId>org.eclipse.aether</groupId>
@@ -484,7 +484,7 @@ under the License.
     <dependency>
       <groupId>commons-io</groupId>
       <artifactId>commons-io</artifactId>
-      <version>2.11.0</version>
+      <version>2.14.0</version>
     </dependency>
   </dependencies>
 
